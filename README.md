@@ -63,7 +63,7 @@ Type         Quantity   Detail
 Source :     Amazon
 Link :       https://www.amazon.com/WINSINN-Bearing-50x15mm-Turbine-Brushless/dp/B07WFJV28K/ref=sr_1_5?dchild=1&keywords=5015+winsinn&qid=1606120419&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sr=8-5
 
-BLTouch offset values for available adapters:
-Mosquito Liquid : x=0, y=-20
-Mosquito standard : x=-25, y=0
-Copperhead : x=-25, y=0
+BLTouch offset values for available adapters:<BR>
+Mosquito Liquid : x=0, y=-20<BR>
+Mosquito standard : x=-25, y=0<BR>
+Copperhead : x=-25, y=0<BR>
