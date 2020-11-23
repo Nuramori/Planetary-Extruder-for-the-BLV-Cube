@@ -44,11 +44,11 @@ MR148ZZ&emsp;&nbsp;&nbsp;&nbsp;two (2)&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Type&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Quantity&emsp;&emsp;&emsp;Detail</B><BR>
 BondTech Drive Gears&emsp;&emsp;one (1)&emsp;&emsp;&emsp;&nbsp;&nbsp;1.75mm Filament, 8mm Shaft size
 
-Source :     Filastruder
+Source :     Filastruder<BR>
 Link :       https://www.filastruder.com/collections/bondtech/products/drivegear-kit?variant=12119193124935
 
 
-Optical Endstop (Integrated variant)
+Optical Endstop<BR>
 Type         Quantity      Manufacturer
 Optical      one (1)       Lerdge
 
