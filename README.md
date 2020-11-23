@@ -35,7 +35,7 @@ MR148ZZ&emsp;&nbsp;&nbsp;&nbsp;two (2)&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <B>Amazon :</B>&emsp;https://www.amazon.com/uxcell-MR148ZZ-Groove-Bearings-Shielded/dp/B082PPPSPT/ref=sr_1_3?dchild=1&keywords=MR148zz&qid=1606114609&sr=8-3<BR><BR>
 
 <B>Hobbed Gears<BR>
-Type&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Quantity&emsp;&emsp;&emsp;&emsp;Detail</B><BR>
+Type&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Quantity&emsp;&emsp;&emsp;Detail</B><BR>
 BondTech Drive Gears&emsp;&emsp;one (1)&emsp;&emsp;&emsp;&emsp;1.75mm Filament, 8mm Shaft size
 
 Source :     Filastruder
