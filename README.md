@@ -14,7 +14,7 @@ Electronics support to be integrated into the shell carrier.
 A future release will be more universal with a blank backplate for modification to adapt to other carrier/printer needs.
 
 <B>NOTE:
-The integrated carrier branch is complete.  The metal carrier branch is pending some final changes to the blower frame, and is not considered complete yet.
+The integrated carrier branch is development release complete.  The metal carrier branch is pending some final changes to the blower frame, and is not considered complete yet.
 I expect to have the preliminary development files complete by Dec. 1 at the latest, November 25th at the earliest.</B><BR>
 
 
