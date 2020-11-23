@@ -25,8 +25,8 @@ NEMA11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moons Industries&nbsp;&nbs
 
 
 <B>Bearings
-Type&emsp;Quantity&emsp;Use/Purpose</B>                   
-<B>B695ZZ</B>       one (1)             Motor spindle support<BR>
+Type&emsp;&emsp;Quantity&emsp;&emsp;Use/Purpose</B>                   
+<B>B695ZZ</B>&emsp;&emsp;one (1)&emsp;&emsp;Motor spindle support<BR>
 <B>B676ZZ</B>       six (6)             Ring gear support/planetary carrier gears<BR>
 <B>MR148ZZ</B>      two (2)             planetary carrier support<BR>
 
