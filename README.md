@@ -3,7 +3,7 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 
-<B>This is an extruder design</B>
+<B>This is an extruder design specifically for the BLV Cube, with a branch modified for the BLV metal carrier upgrade.  A future release will be more universal with a blank backplate for modification to adapt to other carrier/printer needs.</B>
 
 
 <B>Non-Printed Parts List</B>
@@ -12,8 +12,8 @@
 <B>Type         Manufacturer        Part No.</B>          
 NEMA11       Moons Industries    MS11HS1P4100   
 
-Source :     Moons Industries
-Link :       https://www.moonsindustries.com/p/nema-11-standard-hybrid-stepper-motors/ms11hs1p4100-000004611110015846
+<B>Source :</B>     Moons Industries
+<B>Link :</B>       https://www.moonsindustries.com/p/nema-11-standard-hybrid-stepper-motors/ms11hs1p4100-000004611110015846
 
 Bearings
 Type         Quantity            Use/Purpose                   
