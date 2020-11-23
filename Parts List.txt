@@ -39,3 +39,24 @@ Screws & nuts
 Integrated Design
 
 Metal Carrier Design
+
+
+
+Printed Build Parts:
+
+Part name             Quantity      Basis of Design Material              Basis of Design Print Method   Basis of Design Print Source   May be FDM Printed
+Back Shell            one (1)       GBPA12 (Glass Bead filled Nylon 12)   MJF                            Jawstec.com                    No
+Front Shell           one (1)       PA12 (Nylon 12)                       MJF                            Jawstec.com                    Not Recommended
+Filament Clamp        one (1)       PA12 (Nylon 12)                       MJF                            Jawstec.com                    Yes
+
+Planetary Carrier     one (1)       GBPA12 (Glass Bead filled Nylon 12)   MJF                            Jawstec.com                    No
+Planetary Gear        three (3)     GBPA12 (Glass Bead filled Nylon 12)   MJF                            Jawstec.com                    No
+Ring Gear             one (1)       GBPA12 (Glass Bead filled Nylon 12)   MJF                            Jawstec.com                    No
+Pinion Gear           one (1)       GBPA12 (Glass Bead filled Nylon 12)   MJF                            Jawstec.com                    No
+
+Belt Clamps           four (4)      PA12 (Nylon 12)                       MJF                            Jawstec.com                    Yes
+
+Blower Frame          one (1)       PA12 (Nylon 12)                       MJF                            Jawstec.com                    Not Recommended
+Blower nozzle         one (1)       GBPA12 (Glass Bead filled Nylon 12)   MJF                            Jawstec.com                    Not Recommended
+
+Hotend Adaptor(s)     one (1)       PA12 (Nylon 12)                       MJF                            Jawstec.com                    Yes
