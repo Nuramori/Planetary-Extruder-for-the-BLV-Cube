@@ -67,4 +67,4 @@ Link :       https://www.amazon.com/WINSINN-Bearing-50x15mm-Turbine-Brushless/dp
 Mosquito Liquid :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x=0, y=-20<BR>
 Mosquito standard :&nbsp;&nbsp;x=-25, y=0<BR>
 Copperhead :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x=-25, y=0<BR>
-E3D V6 :&emsp;&nbsp;&nbsp;x=-25, y=0<BR>
+E3D V6 :&emsp;&emsp;&emsp;&nbsp;&nbsp;x=-25, y=0<BR>
