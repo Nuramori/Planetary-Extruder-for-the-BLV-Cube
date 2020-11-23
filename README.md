@@ -31,9 +31,9 @@ Type&emsp;&emsp;&emsp;&emsp;Quantity&emsp;&emsp;Use/Purpose</B>
 <B>MR148ZZ</B>&emsp;&nbsp;&nbsp;&nbsp;two (2)&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planetary carrier support<BR>
 
 <B>Source :     Misumi, Amazon</B><BR>
-<B>Misumi :</B>&emsp;https://us.misumi-ec.com/vona2/detail/110300107560/?HissuCode=B695ZZ&PNSearch=B695ZZ&searchFlow=results2type&KWSearch=B695zz<BR><BR>
-             https://us.misumi-ec.com/vona2/detail/110300107560/?HissuCode=B676ZZ&PNSearch=B676ZZ&searchFlow=results2type&KWSearch=B676ZZ<BR><BR>
-<B>Amazon :</B>&emsp;https://www.amazon.com/uxcell-MR148ZZ-Groove-Bearings-Shielded/dp/B082PPPSPT/ref=sr_1_3?dchild=1&keywords=MR148zz&qid=1606114609&sr=8-3
+<B>Misumi :</B>&emsp;https://us.misumi-ec.com/vona2/detail/110300107560/?HissuCode=B695ZZ&PNSearch=B695ZZ&searchFlow=results2type&KWSearch=B695zz<BR>
+<B>Misumi :</B>&emsp;https://us.misumi-ec.com/vona2/detail/110300107560/?HissuCode=B676ZZ&PNSearch=B676ZZ&searchFlow=results2type&KWSearch=B676ZZ<BR>
+<B>Amazon :</B>&emsp;https://www.amazon.com/uxcell-MR148ZZ-Groove-Bearings-Shielded/dp/B082PPPSPT/ref=sr_1_3?dchild=1&keywords=MR148zz&qid=1606114609&sr=8-3<BR>
 
 Hobbed Gears
 Type                     Quantity            Detail
