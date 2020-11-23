@@ -15,11 +15,12 @@ NEMA11       Moons Industries    MS11HS1P4100
 <B>Source :</B>     Moons Industries
 <B>Link :</B>       https://www.moonsindustries.com/p/nema-11-standard-hybrid-stepper-motors/ms11hs1p4100-000004611110015846
 
-Bearings
-Type         Quantity            Use/Purpose                   
-B695ZZ       one (1)             Motor spindle support
-B676ZZ       six (6)             Ring gear support/planetary carrier gears
-MR148ZZ      two (2)             planetary carrier support
+
+<B>Bearings
+Type         Quantity            Use/Purpose</B>                   
+<B>B695ZZ</B>       one (1)             Motor spindle support
+<B>B676ZZ</B>       six (6)             Ring gear support/planetary carrier gears
+<B>MR148ZZ</B>      two (2)             planetary carrier support
 
 Source :     Misumi, Amazon
 Links :      https://us.misumi-ec.com/vona2/detail/110300107560/?HissuCode=B695ZZ&PNSearch=B695ZZ&searchFlow=results2type&KWSearch=B695zz
