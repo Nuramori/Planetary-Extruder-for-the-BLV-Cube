@@ -1,5 +1,5 @@
 The following parts are needed for this build.  Included are links and/or item numbers and their sources that I have used to complete this project.
-Note that sources other than what I have used may result in variances in tolernace that are out of my control, so may require some consideration if
+Note that sources other than what I have used may result in variances in tolerance that are out of my control, and may require some consideration if
 you explore other avenues to acquire the items listed.
 
 Extruder Motor
