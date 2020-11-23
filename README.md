@@ -6,10 +6,10 @@
 <B>This is an extruder design</B>
 
 
-<B><U>Non-Printed Parts List</U></B>
+<B>Non-Printed Parts List</B>
 
 <B>Extruder Motor</B>
-<UL>Type         Manufacturer        Part No.</UL>          
+<B>Type         Manufacturer        Part No.</B>          
 NEMA11       Moons Industries    MS11HS1P4100   
 
 Source :     Moons Industries
