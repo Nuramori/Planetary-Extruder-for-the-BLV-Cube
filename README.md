@@ -9,10 +9,10 @@
 <B>Non-Printed Parts List</B>
 
 <B>Extruder Motor</B>
-<B>Type         Manufacturer        Part No.</B>          
+<B>Type         Manufacturer        Part No.</B><BR>          
 NEMA11       Moons Industries    MS11HS1P4100   
 
-<B>Source :</B>     Moons Industries
+<B>Source :</B>     Moons Industries<BR>
 <B>Link :</B>       https://www.moonsindustries.com/p/nema-11-standard-hybrid-stepper-motors/ms11hs1p4100-000004611110015846
 
 
