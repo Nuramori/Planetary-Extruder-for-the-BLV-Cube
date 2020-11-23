@@ -28,7 +28,7 @@ NEMA11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moons Industries&nbsp;&nbs
 Type&emsp;&emsp;&emsp;&emsp;Quantity&emsp;&emsp;Use/Purpose</B>                   
 <B>B695ZZ</B>&emsp;&emsp;one (1)&emsp;&emsp;&emsp;&ensp;Motor spindle support<BR>
 <B>B676ZZ</B>&emsp;&emsp;six (6)&emsp;&emsp;&emsp;&emsp;Ring gear support/planetary carrier gears<BR>
-<B>MR148ZZ</B>&emsp;&emsp;two (2)&emsp;&emsp;&nbsp;planetary carrier support<BR>
+<B>MR148ZZ</B>&emsp;&emsp;two (2)&emsp;&emsp;&nbsp;&nbsp;Planetary carrier support<BR>
 
 Source :     Misumi, Amazon
 Links :      https://us.misumi-ec.com/vona2/detail/110300107560/?HissuCode=B695ZZ&PNSearch=B695ZZ&searchFlow=results2type&KWSearch=B695zz
