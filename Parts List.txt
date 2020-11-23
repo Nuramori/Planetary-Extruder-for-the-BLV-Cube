@@ -34,6 +34,12 @@ Source:      Amazon
 Link:        https://www.amazon.com/Printer-Accessories-Optical-Tachometer-Photoelectric/dp/B088P3TPCB
 alternate:   https://www.amazon.com/MakerHawk-Optical-Endstop-Photoelectric-Control/dp/B07PMW2QMT/ref=sr_1_2?dchild=1&keywords=large+end+stop+optical&qid=1606115247&s=industrial&sr=1-2
 
+Fan
+Type         Quantity   Detail
+5015         one (1)    12v Dual ball bearing
+
+Source :     Amazon
+Link :       https://www.amazon.com/WINSINN-Bearing-50x15mm-Turbine-Brushless/dp/B07WFJV28K/ref=sr_1_5?dchild=1&keywords=5015+winsinn&qid=1606120419&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sr=8-5
 
 Screws & nuts
 Integrated Design
