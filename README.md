@@ -16,7 +16,7 @@ A future release will be more universal with a blank backplate for modification 
 
 <B>Non-Printed Parts List</B>
 
-<B>Extruder Motor</B>
+<B>Extruder Motor</B><BR>
 <B>Type&nbsp;&nbsp;&nbsp;&nbsp;Manufacturer&nbsp;&nbsp;&nbsp;&nbsp;Part No.</B><BR>          
 NEMA11&nbsp;&nbsp;&nbsp;&nbsp;Moons Industries&nbsp;&nbsp;&nbsp;&nbsp;MS11HS1P4100   
 
