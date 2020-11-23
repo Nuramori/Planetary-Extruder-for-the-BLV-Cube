@@ -36,7 +36,7 @@ MR148ZZ&emsp;&nbsp;&nbsp;&nbsp;two (2)&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <B>Hobbed Gears<BR>
 Type&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Quantity&emsp;&emsp;&emsp;Detail</B><BR>
-BondTech Drive Gears&emsp;&emsp;one (1)&emsp;&emsp;&emsp;&nbsp;1.75mm Filament, 8mm Shaft size
+BondTech Drive Gears&emsp;&emsp;one (1)&emsp;&emsp;&emsp;&nbsp;&nbsp;1.75mm Filament, 8mm Shaft size
 
 Source :     Filastruder
 Link :       https://www.filastruder.com/collections/bondtech/products/drivegear-kit?variant=12119193124935
