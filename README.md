@@ -7,11 +7,17 @@ This is an extruder design specifically for the BLV Cube, with a branch modified
 
 Implement a geared reduction drive to allow for a smaller and lighter stepper motor, that offsets the motor's lower torque with the torque increase of a planetary drive system, combined with a helical gear ratio to reach a final ratio of 18:1
 
+Utilize a BLTouch as the z-axis prober.
+
 Allow for multiple hotend types by basing attachements via a simple adapter plate and parts cooler nozzle change.  Allow swaps with a couple of screws/bolts.
 
 Electronics support to be integrated into the shell carrier.
 
 A future release will be more universal with a blank backplate for modification to adapt to other carrier/printer needs.
+
+<B>NOTE:
+The integrated carrier branch is development release complete.  The metal carrier branch is pending some final changes to the blower frame, and is not considered complete yet.
+I expect to have the preliminary development files complete by Dec. 1 at the latest, November 25th at the earliest.</B><BR>
 
 
 <B>Non-Printed Parts List</B>
