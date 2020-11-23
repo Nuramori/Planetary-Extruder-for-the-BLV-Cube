@@ -61,7 +61,7 @@ Type         Quantity   Detail
 5015         one (1)    12v Dual ball bearing
 
 Source :     Amazon
-Link :       https://www.amazon.com/WINSINN-Bearing-50x15mm-Turbine-Brushless/dp/B07WFJV28K/ref=sr_1_5?dchild=1&keywords=5015+winsinn&qid=1606120419&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sr=8-5<BR>
+Link :       https://www.amazon.com/WINSINN-Bearing-50x15mm-Turbine-Brushless/dp/B07WFJV28K/ref=sr_1_5?dchild=1&keywords=5015+winsinn&qid=1606120419&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sr=8-5<BR><BR>
 
 <B>BLTouch offset values for listed adapters:</B><BR>
 The default x,y offsets are x=-25, y=0 unless noted otherwise.<BR>
@@ -74,3 +74,6 @@ Nova<BR>
   
 <B>Unique offsets are as follows:</B><BR>
 Mosquito Liquid :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x=0, y=-20<BR>
+  
+<B>Configuring steps/mm</B><BR>  
+Since the extruder utilizes gear reduction to 18:1 to increase torque, the steps/mm need to be adjusted.  Based on a 0.8degree motor, it is recommended the base value be set to 1704.5  The standard method of calibrating extruder steps is recommended to fine tune this value to suit your machine.
