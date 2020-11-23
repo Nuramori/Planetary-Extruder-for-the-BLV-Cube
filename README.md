@@ -73,7 +73,9 @@ E3D V6<BR>
 Nova<BR>
   
 <B>Unique offsets are as follows:</B><BR>
-Mosquito Liquid :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x=0, y=-20<BR>
+Mosquito Liquid :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x=0, y=-20<BR><BR>
   
 <B>Configuring steps/mm</B><BR>  
-Since the extruder utilizes gear reduction to 18:1 to increase torque, the steps/mm need to be adjusted.  Based on a 0.8degree motor, it is recommended the base value be set to 1704.5  The standard method of calibrating extruder steps is recommended to fine tune this value to suit your machine.
+Since the extruder utilizes gear reduction to 18:1 to increase torque, the steps/mm need to be adjusted.  <B>Based on a 0.8degree motor, it is recommended the base value be set to 1704.5.</B><BR>
+
+The standard method of calibrating extruder steps is recommended to fine tune this value to suit your machine.
