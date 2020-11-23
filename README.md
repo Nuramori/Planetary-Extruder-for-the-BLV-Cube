@@ -23,7 +23,6 @@ NEMA11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moons Industries&nbsp;&nbs
 <B>Source :</B>     Moons Industries<BR>
 <B>Link :</B>       https://www.moonsindustries.com/p/nema-11-standard-hybrid-stepper-motors/ms11hs1p4100-000004611110015846<BR><BR>
 
-
 <B>Bearings<BR>
 Type&emsp;&emsp;&emsp;&emsp;Quantity&emsp;&emsp;Use/Purpose</B>                   
 <B>B695ZZ</B>&emsp;&emsp;&nbsp;&nbsp;one (1)&emsp;&emsp;&emsp;&ensp;Motor spindle support<BR>
@@ -33,11 +32,11 @@ Type&emsp;&emsp;&emsp;&emsp;Quantity&emsp;&emsp;Use/Purpose</B>
 <B>Source :     Misumi, Amazon</B><BR>
 <B>Misumi :</B>&emsp;https://us.misumi-ec.com/vona2/detail/110300107560/?HissuCode=B695ZZ&PNSearch=B695ZZ&searchFlow=results2type&KWSearch=B695zz<BR>
 <B>Misumi :</B>&emsp;https://us.misumi-ec.com/vona2/detail/110300107560/?HissuCode=B676ZZ&PNSearch=B676ZZ&searchFlow=results2type&KWSearch=B676ZZ<BR>
-<B>Amazon :</B>&emsp;https://www.amazon.com/uxcell-MR148ZZ-Groove-Bearings-Shielded/dp/B082PPPSPT/ref=sr_1_3?dchild=1&keywords=MR148zz&qid=1606114609&sr=8-3<BR>
+<B>Amazon :</B>&emsp;https://www.amazon.com/uxcell-MR148ZZ-Groove-Bearings-Shielded/dp/B082PPPSPT/ref=sr_1_3?dchild=1&keywords=MR148zz&qid=1606114609&sr=8-3<BR><BR>
 
-Hobbed Gears
-Type                     Quantity            Detail
-BondTech Drive Gears     1                   1.75mm Filament, 8mm Shaft size
+<B>Hobbed Gears<BR>
+Type&emsp;&emsp;&emsp;&emsp;Quantity&emsp;&emsp;&emsp;&emsp;Detail</B>
+BondTech Drive Gears&emsp;&emsp;&emsp;&emsp;one (1)&emsp;&emsp;&emsp;&emsp;1.75mm Filament, 8mm Shaft size
 
 Source :     Filastruder
 Link :       https://www.filastruder.com/collections/bondtech/products/drivegear-kit?variant=12119193124935
