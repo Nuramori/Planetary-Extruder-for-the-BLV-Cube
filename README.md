@@ -66,7 +66,7 @@ Link :       https://www.amazon.com/WINSINN-Bearing-50x15mm-Turbine-Brushless/dp
 <B>BLTouch offset values for listed adapters:</B><BR>
 The default x,y offsets are x=-25, y=0 unless noted otherwise.<BR>
 
-<B>Current and near future adaptors using this default are as follows:</B><BR>
+<B>Current adaptors using this default are as follows:</B><BR>
 Slice Engineering Mosquito standard<BR>
 Slice Engineering Copperhead<BR>
 E3D V6<BR>
