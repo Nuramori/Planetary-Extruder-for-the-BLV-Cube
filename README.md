@@ -15,9 +15,18 @@ Electronics support to be integrated into the shell carrier.
 
 A future release will be more universal with a blank backplate for modification to adapt to other carrier/printer needs.
 
-<B>NOTE:
-The integrated carrier branch is development release complete.  The metal carrier branch is pending some final changes to the blower frame, and is not considered complete yet.
-I expect to have the preliminary development files complete by Dec. 1 at the latest, November 25th at the earliest.</B><BR>
+# BETA RELEASE v0.8 [Dec 5, 2020]
+
+<B>CHANGES:</B><BR>
+Due to a lack of sleep, the previous set if files contained an error in the gearing ratio, resulting in not the planned 18:1, but 4:1.  While the NEMA11 motor *almost* had the torque to work, it didn't have enough resulting torque due to the error in the gearing/transmission profile.  This has been fixed.
+
+The resulting revision also reduced the overal part count, including removing three of the rather expensive small bearings that were previously needed.
+
+The design has gotten even more modular, with the front half becoming a cassette design that completely self contained, and easier to service and complete final assembly.
+
+The overall general profile envelope was maintained, so not external factors were affected, such as mount points nor belt connections.
+
+One more beta will be released prior to the formal release.  The forthcoming beta will include some modified versions of the blower frame to accommodate those using or not using a Duet toolboard, and a final few completed adapters for the metal carriage version.  Test parts have been ordered, and I expect commissioning and final release to be completed within 2 weeks.
 
 
 <B>Non-Printed Parts List</B>
@@ -32,8 +41,8 @@ NEMA11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moons Industries&nbsp;&nbs
 <B>Bearings<BR>
 Type&emsp;&emsp;&emsp;&emsp;Quantity&emsp;&emsp;Use/Purpose</B>                   
 B695ZZ&emsp;&emsp;&nbsp;&nbsp;one (1)&emsp;&emsp;&emsp;&ensp;Motor spindle support<BR>
-B676ZZ&emsp;&emsp;&nbsp;&nbsp;six (6)&emsp;&emsp;&emsp;&emsp;Ring gear support/planetary carrier gears<BR>
-MR148ZZ&emsp;&nbsp;&nbsp;&nbsp;two (2)&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planetary carrier support<BR>
+B676ZZ&emsp;&emsp;&nbsp;&nbsp;three (3)&emsp;&emsp;&emsp;Ring gear support/planetary carrier gears<BR>
+MR148ZZ&emsp;&nbsp;&nbsp;&nbsp;three (3)&emsp;&emsp;&nbsp;&nbsp;&nbsp;Planetary carrier and sungear drive support<BR>
 
 <B>Source :     Misumi, Amazon</B><BR>
 <B>Misumi :</B>&emsp;https://us.misumi-ec.com/vona2/detail/110300107560/?HissuCode=B695ZZ&PNSearch=B695ZZ&searchFlow=results2type&KWSearch=B695zz<BR>
