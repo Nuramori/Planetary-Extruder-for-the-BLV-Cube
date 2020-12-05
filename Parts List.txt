@@ -12,8 +12,8 @@ Link :       https://www.moonsindustries.com/p/nema-11-standard-hybrid-stepper-m
 Bearings
 Type         Quantity            Use/Purpose                   
 B695ZZ       one (1)             Motor spindle support
-B676ZZ       six (6)             Ring gear support/planetary carrier gears
-MR148ZZ      two (2)             planetary carrier support
+B676ZZ       Three (3)           Planetary gears
+MR148ZZ      Three (3)           planetary carrier & Driven Sungear support
 
 Source :     Misumi, Amazon
 Links :      https://us.misumi-ec.com/vona2/detail/110300107560/?HissuCode=B695ZZ&PNSearch=B695ZZ&searchFlow=results2type&KWSearch=B695zz
@@ -59,7 +59,8 @@ Filament Clamp        one (1)       PA12 (Nylon 12)                       MJF   
 
 Planetary Carrier     one (1)       GBPA12 (Glass Bead filled Nylon 12)   MJF                            Jawstec.com                    No
 Planetary Gear        three (3)     GBPA12 (Glass Bead filled Nylon 12)   MJF                            Jawstec.com                    No
-Ring Gear             one (1)       GBPA12 (Glass Bead filled Nylon 12)   MJF                            Jawstec.com                    No
+Fixed Ring Gear       one (1)       GBPA12 (Glass Bead filled Nylon 12)   MJF                            Jawstec.com                    No
+Driven Sun Gear       one (1)       GBPA12 (Glass Bead filled Nylon 12)   MJF                            Jawstec.com                    No
 Pinion Gear           one (1)       GBPA12 (Glass Bead filled Nylon 12)   MJF                            Jawstec.com                    No
 
 Belt Clamps           four (4)      PA12 (Nylon 12)                       MJF                            Jawstec.com                    Yes
