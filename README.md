@@ -15,7 +15,7 @@ Electronics support to be integrated into the shell carrier.
 
 A future release will be more universal with a blank backplate for modification to adapt to other carrier/printer needs.
 
-#BETA RELEASE v0.8 [Dec 5, 2020]
+# BETA RELEASE v0.8 [Dec 5, 2020]
 
 <B>CHANGES:</B><BR>
 Due to a lack of sleep, the previous set if files contained an error in the gearing ratio, resulting in not the planned 18:1, but 4:1.  While the NEMA11 motor *almost* had the torque to work, it didn't have enough resulting torque due to the error in the gearing/transmission profile.  This has been fixed.
