@@ -5,7 +5,7 @@
 
 This is an extruder design specifically for the BLV Cube, with a branch modified for the BLV metal carrier upgrade.  Key design concepts that drove the design direction were the following:
 
-Implement a geared reduction drive to allow for a smaller and lighter stepper motor, that offsets the motor's lower torque with the torque increase of a planetary drive system, combined with a helical gear ratio to reach a final ratio of 18:1
+Implement a geared reduction drive to allow for a smaller and lighter stepper motor, that offsets the motor's lower torque with the torque increase of a planetary drive system, combined with a helical gear ratio to reach a final ratio of 12:1
 
 Utilize a BLTouch as the z-axis prober.
 
