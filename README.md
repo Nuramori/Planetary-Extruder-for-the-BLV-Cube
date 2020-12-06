@@ -9,7 +9,7 @@ Implement a geared reduction drive to allow for a smaller and lighter stepper mo
 
 Utilize a BLTouch as the z-axis prober.
 
-Allow for multiple hotend types by basing attachements via a simple adapter plate and parts cooler nozzle change.  Allow swaps with a couple of screws/bolts.
+Allow for multiple hotend types by basing attachments via a simple adapter plate and parts cooler nozzle change.  Allow swaps with a couple of screws/bolts.
 
 Electronics support to be integrated into the shell carrier.
 
