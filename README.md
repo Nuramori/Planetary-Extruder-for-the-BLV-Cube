@@ -15,6 +15,11 @@ Electronics support to be integrated into the shell carrier.
 
 A future release will be more universal with a blank backplate for modification to adapt to other carrier/printer needs.
 
+If you wish to look around in a web browser, here are some links.
+
+Ingegrated Version : https://a360.co/2Vma0a4
+Metal/universal version : https://a360.co/36IUueP
+
 # BETA RELEASE v0.8 [Dec 5, 2020]
 
 <B>CHANGES:</B><BR>
