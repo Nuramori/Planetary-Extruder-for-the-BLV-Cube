@@ -23,7 +23,7 @@ Metal/universal version : https://a360.co/36IUueP
 # BETA RELEASE v0.8 [Dec 5, 2020]
 
 <B>CHANGES:</B><BR>
-Due to a lack of sleep, the previous set if files contained an error in the gearing ratio, resulting in not the planned 18:1, but 4:1.  While the NEMA11 motor *almost* had the torque to work, it didn't have enough resulting torque due to the error in the gearing/transmission profile.  This has been fixed.
+Due to a lack of sleep, the previous set if files contained an error in the gearing ratio, resulting in not the planned 12:1, but 4:1.  While the NEMA11 motor *almost* had the torque to work, it didn't have enough resulting torque due to the error in the gearing/transmission profile.  This has been fixed.
 
 The resulting revision also reduced the overal part count, including removing three of the rather expensive small bearings that were previously needed.
 
