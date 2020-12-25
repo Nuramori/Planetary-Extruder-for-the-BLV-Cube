@@ -1,6 +1,6 @@
 # Planetary Extruder for the BLV Cube
 
-<B><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</B>
+<B><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</B>
 
 
 This is an extruder design specifically for the BLV Cube, with a branch modified for the BLV metal carrier upgrade.  Key design concepts that drove the design direction were the following:
@@ -19,6 +19,10 @@ If you wish to look around in a web browser, here are some links.
 
 Integrated Version : https://a360.co/2Vma0a4<BR>
 Metal/universal version : https://a360.co/36IUueP
+
+
+
+
 
 # BETA RELEASE v0.8 [Dec 5, 2020]
 
