@@ -1,4 +1,4 @@
-# Planetary Extruder for the BLV Cube
+# Planetary Extruder for the BLV Cube - The EdP-Drive.
 
 <B><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</B>
 
@@ -26,7 +26,7 @@ Metal/universal version : https://a360.co/36IUueP
 
 # FIRST RELEASE v1.0 [Dec 25, 2020]
 
-The project has been printed and tested, with a few minor tweaks.  I also have released this under a new licensing terms, to allow for community development, and open to commercial USE.  I would as anyone that utilizes this design, extend the courtesy of proper credits for the work and expense put into bringing this work to the community.  Thanks.
+The project has been printed and tested, with a few minor tweaks.  I'm formally calling it the EdP-Drive, or "P-Drive" if you wish.  I also have released this under a new licensing terms, to allow for community development, and open to commercial USE.  I would as anyone that utilizes this design, extend the courtesy of proper credits for the work and expense put into bringing this work to the community.  Thanks.
 
 
 <B>Non-Printed Parts List</B>
