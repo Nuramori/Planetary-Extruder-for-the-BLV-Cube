@@ -1,6 +1,6 @@
 # Planetary Extruder for the BLV Cube
 
-<B><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</B>
+<B><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</B>
 
 
 This is an extruder design specifically for the BLV Cube, with a branch modified for the BLV metal carrier upgrade.  Key design concepts that drove the design direction were the following:
@@ -20,18 +20,13 @@ If you wish to look around in a web browser, here are some links.
 Integrated Version : https://a360.co/2Vma0a4<BR>
 Metal/universal version : https://a360.co/36IUueP
 
-# BETA RELEASE v0.8 [Dec 5, 2020]
 
-<B>CHANGES:</B><BR>
-Due to a lack of sleep, the previous set if files contained an error in the gearing ratio, resulting in not the planned 12:1, but 4:1.  While the NEMA11 motor *almost* had the torque to work, it didn't have enough resulting torque due to the error in the gearing/transmission profile.  This has been fixed.
 
-The resulting revision also reduced the overal part count, including removing three of the rather expensive small bearings that were previously needed.
 
-The design has gotten even more modular, with the front half becoming a cassette design that completely self contained, and easier to service and complete final assembly.
 
-The overall general profile envelope was maintained, so not external factors were affected, such as mount points nor belt connections.
+# FIRST RELEASE v1.0 [Dec 25, 2020]
 
-One more beta will be released prior to the formal release.  The forthcoming beta will include some modified versions of the blower frame to accommodate those using or not using a Duet toolboard, and a final few completed adapters for the metal carriage version.  Test parts have been ordered, and I expect commissioning and final release to be completed within 2 weeks.
+The project has been printed and tested, with a few minor tweaks.  I also have released this under a new licensing terms, to allow for community development, and open to commercial USE.  I would as anyone that utilizes this design, extend the courtesy of proper credits for the work and expense put into bringing this work to the community.  Thanks.
 
 
 <B>Non-Printed Parts List</B>
