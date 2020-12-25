@@ -24,18 +24,9 @@ Metal/universal version : https://a360.co/36IUueP
 
 
 
-# BETA RELEASE v0.8 [Dec 5, 2020]
+# FIRST RELEASE v1.0 [Dec 25, 2020]
 
-<B>CHANGES:</B><BR>
-Due to a lack of sleep, the previous set if files contained an error in the gearing ratio, resulting in not the planned 12:1, but 4:1.  While the NEMA11 motor *almost* had the torque to work, it didn't have enough resulting torque due to the error in the gearing/transmission profile.  This has been fixed.
-
-The resulting revision also reduced the overal part count, including removing three of the rather expensive small bearings that were previously needed.
-
-The design has gotten even more modular, with the front half becoming a cassette design that completely self contained, and easier to service and complete final assembly.
-
-The overall general profile envelope was maintained, so not external factors were affected, such as mount points nor belt connections.
-
-One more beta will be released prior to the formal release.  The forthcoming beta will include some modified versions of the blower frame to accommodate those using or not using a Duet toolboard, and a final few completed adapters for the metal carriage version.  Test parts have been ordered, and I expect commissioning and final release to be completed within 2 weeks.
+The project has been printed and tested, with a few minor tweaks.  I also have released this under a new licensing terms, to allow for community development, and open to commercial USE.  I would as anyone that utilizes this design, extend the courtesy of proper credits for the work and expense put into bringing this work to the community.  Thanks.
 
 
 <B>Non-Printed Parts List</B>
