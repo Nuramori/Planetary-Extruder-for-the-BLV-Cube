@@ -22,6 +22,11 @@ Metal/universal version : https://a360.co/36IUueP
 
 
 
+# UPDATE v1.01 [January 14, 2021
+
+I added a new adapter for the metal carrier variation, to accommodate the Mosquito (air-cooled).  The nozzle needed for this hotend is the same as the one in the common components area.
+
+I plan on doing an update soon that has the installation/construction sequence to make it easier for people to assemble things :p.
 
 
 # FIRST RELEASE v1.0 [Dec 25, 2020]

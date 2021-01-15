@@ -54,6 +54,8 @@ Printed Build Parts:
 
 Part name             Quantity      Basis of Design Material              Basis of Design Print Method   Basis of Design Print Source   May be FDM Printed
 Back Shell            one (1)       GBPA12 (Glass Bead filled Nylon 12)   MJF                            Jawstec.com                    No
+                      *Back shell for the metal carrier version can be PA12
+
 Front Shell           one (1)       PA12 (Nylon 12)                       MJF                            Jawstec.com                    Not Recommended
 Filament Clamp        one (1)       PA12 (Nylon 12)                       MJF                            Jawstec.com                    Yes
 
