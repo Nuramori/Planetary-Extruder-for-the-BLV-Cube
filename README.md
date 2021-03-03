@@ -21,7 +21,7 @@ Integrated Version : https://a360.co/2Vma0a4<BR>
 Metal/universal version : https://a360.co/36IUueP
 
 
-# UPDATE v1.02 [March 3, 2021
+# UPDATE v1.02 [March 3, 2021]
 
 Added a new blower frame for the metal carrier to accommodate the Duet Toolboard up to board version 1.0 (current as of this update).
 
@@ -29,7 +29,7 @@ I still plan on doing another update that has the installation/construction sequ
 
 
 
-# UPDATE v1.01 [January 14, 2021
+# UPDATE v1.01 [January 14, 2021]
 
 I added new adapters; one specifically for the for the metal carrier variation, to accommodate the Mosquito (air-cooled) and the other for the Dragon hotend from TriangleLabs.  The Dragon Adapter is complete for both the integrated and metal carriers.
 
