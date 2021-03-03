@@ -60,18 +60,31 @@ BondTech Drive Gears&emsp;&emsp;one (1)&emsp;&emsp;&emsp;&nbsp;&nbsp;1.75mm Fila
 
 Source :     Filastruder<BR>
 Link :       https://www.filastruder.com/collections/bondtech/products/drivegear-kit?variant=12119193124935
+<BR><BR>
 
 
-Optical Endstop<BR>
-Type         Quantity      Manufacturer
+<B>Clamp Thumbscrew Tensioner<BR>
+Type&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Quantity&emsp;&emsp;&emsp;</B><BR>
+BondTech Thumbscrew Tensioner&emsp;&emsp;&emsp;one (1)&emsp;&emsp;&emsp;&nbsp;&nbsp;
+
+Source :     Filastruder<BR>
+Link :       https://www.filastruder.com/collections/bondtech/products/bondtech-thumbscrew-assembly
+<BR>
+<BR>  
+
+
+<B>Optical Endstop</B><BR>
+Type&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Quantity&emsp;&emsp;&emsp;Manufacturer</B><BR>
 Optical      one (1)       Lerdge
 
 Source:      Amazon
 Link:        https://www.amazon.com/Printer-Accessories-Optical-Tachometer-Photoelectric/dp/B088P3TPCB
 alternate:   https://www.amazon.com/MakerHawk-Optical-Endstop-Photoelectric-Control/dp/B07PMW2QMT/ref=sr_1_2?dchild=1&keywords=large+end+stop+optical&qid=1606115247&s=industrial&sr=1-2
-
-Fan
-Type         Quantity   Detail
+<BR>
+<BR>  
+  
+<B>Fan</B><BR>
+Type&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Quantity&emsp;&emsp;&emsp;Detail</B><BR>
 5015         one (1)    12v Dual ball bearing
 
 Source :     Amazon
