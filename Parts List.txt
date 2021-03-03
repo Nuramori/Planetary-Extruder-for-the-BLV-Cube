@@ -70,4 +70,4 @@ Belt Clamps           four (4)      PA12 (Nylon 12)                       MJF   
 Blower Frame          one (1)       PA12 (Nylon 12)                       MJF                            Jawstec.com                    Not Recommended
 Blower nozzle         one (1)       GBPA12 (Glass Bead filled Nylon 12)   MJF                            Jawstec.com                    Not Recommended
 
-Hotend Adaptor(s)     one (1)       PA12 (Nylon 12)                       MJF                            Jawstec.com                    Yes
+Hotend Adaptor(s)     one (1)       GBPA12 (Glass Bead filled Nylon 12)   MJF                            Jawstec.com                    Recomend MJF, but can be printed.
