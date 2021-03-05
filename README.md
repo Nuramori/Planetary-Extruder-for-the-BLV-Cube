@@ -22,7 +22,7 @@ Metal/universal version : https://a360.co/36IUueP
 
 # UPDATE v1.03 [March 4, 2021]
 
-Thanks to a fellow that's building a metal carrier version with the toolboard, so a few things were caught...
+Thanks to a fellow BLV owner that's building a metal carrier version with the toolboard, I found a few errors that needed fixing... 
 
 I still plan on doing another update that has the installation/construction sequence to make it easier for people to assemble the extruder.
 
