@@ -19,7 +19,7 @@ If you wish to look around in a web browser, here are some links.
 
 Integrated Version : https://a360.co/2Vma0a4<BR>
 Metal/universal version : https://a360.co/36IUueP
-
+<br>
 
 
 # UPDATE v1.03 [March 4, 2021]
@@ -27,15 +27,15 @@ Metal/universal version : https://a360.co/36IUueP
 Thanks to a fellow BLV owner that's building a metal carrier version with the toolboard, I found a few errors that needed fixing... 
 
 I still plan on doing another update that has the installation/construction sequence to make it easier for people to assemble the extruder.
-
-
+<br>
+<br>
 
 
 # UPDATE v1.02 [March 3, 2021]
 
 Added a new blower frame for the metal carrier to accommodate the Duet Toolboard up to board version 1.0 (current as of this update).
-
-
+<br>
+<br>
 
 
 # UPDATE v1.01 [January 14, 2021]
@@ -43,8 +43,8 @@ Added a new blower frame for the metal carrier to accommodate the Duet Toolboard
 I added new adapters; one specifically for the for the metal carrier variation, to accommodate the Mosquito (air-cooled) and the other for the Dragon hotend from TriangleLabs.  The Dragon Adapter is complete for both the integrated and metal carriers.
 
 I plan on doing an update soon that has the installation/construction sequence to make it easier for people to assemble things :p.
-
-
+<br>
+<br>
 
 
 # FIRST RELEASE v1.0 [Dec 25, 2020]
