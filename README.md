@@ -20,13 +20,20 @@ If you wish to look around in a web browser, here are some links.
 Integrated Version : https://a360.co/2Vma0a4<BR>
 Metal/universal version : https://a360.co/36IUueP
 <br>
+  
+  
+# UPDATE v1.04 [March 6, 2021]
+
+Thanks to a fellow BLV owner that's building a metal carrier version with the toolboard, there was an additional tweak necessary if people were to use the experimental belt retainers that come with the metal kit.  It also needed fixing... 
+
+I still plan on doing another update that has the installation/construction sequence to make it easier for people to assemble the extruder.
+<br>
+<br>
 
 
 # UPDATE v1.03 [March 4, 2021]
 
 Thanks to a fellow BLV owner that's building a metal carrier version with the toolboard, I found a few errors that needed fixing... 
-
-I still plan on doing another update that has the installation/construction sequence to make it easier for people to assemble the extruder.
 <br>
 <br>
 
